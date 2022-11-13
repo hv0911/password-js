@@ -1,2 +1,2 @@
 # password-js
-basic authentication
+basic authentication using password js and bcrypt
